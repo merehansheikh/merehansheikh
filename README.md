@@ -10,7 +10,8 @@
 - 📫 How to reach me **merehansheikh@gmail.com**
 
 - ⚡ Fun fact: **I love creativity!**
-
+---
+### ✍️ I got books for you! Check out the list [here](https://github.com/merehansheikh/Data-Science-22/blob/main/README.md)!
 ---
 # 📊 GitHub Stats:
 ![merehansheikh](https://github-readme-stats.vercel.app/api?username=merehansheikh&theme=midnight-purple&include_all_commits=true&count_private=true&show_icons=true&locale=en)<br/>
@@ -18,9 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=merehansheikh&theme=radical&hide_border=false)<br/>
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=merehansheikh&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
