@@ -12,6 +12,7 @@
 - ⚡ Fun fact: **I love creativity!**
 ---
 ### ✍️ I got books for you! Check out the list [here](https://github.com/merehansheikh/Data-Science-22/blob/main/README.md)!
+### Looking for something? Look no further! Check out my [profile map](https://github.com/merehansheikh/profile-map/blob/main/README.md)!
 ---
 # 📊 GitHub Stats:
 ![merehansheikh](https://github-readme-stats.vercel.app/api?username=merehansheikh&theme=midnight-purple&include_all_commits=true&count_private=true&show_icons=true&locale=en)<br/>
