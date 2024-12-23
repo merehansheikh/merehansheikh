@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan!</h1>
 <h3 align="center">A Passionate Coder and a Graphic Designer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merehansheikh&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrarabbani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=merehansheikh&label=Profile%20views&color=0e75b6&style=flat" alt="merehansheikh" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
