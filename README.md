@@ -19,7 +19,7 @@
 ---
 
 # 🔐 TryHackMe [Profile](https://tryhackme.com/p/merehansheikh):
-<img src="https://tryhackme-badges.s3.amazonaws.com/merehansheikh.png" alt="Your Image Badge"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/merehansheikh.png" alt="Your Image Badge" />
 
 ---
 # 📊 GitHub Stats:
